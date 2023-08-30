@@ -1,0 +1,13 @@
+body{
+    min-width: 300px;
+    background-color: #002211;
+    color: #ffffff;
+}
+
+p{
+    background-color: #02391d;
+    box-shadow: rgb(38,57,77) 0 20px 30px -10px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
